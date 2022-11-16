@@ -1,4 +1,4 @@
-- 👋 Hi, I’m davidsalomon from jerusalem
+- 👋 Hi, I’m david salomon from jerusalem
 - 👀 I’m interested in angular, python cet'
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
